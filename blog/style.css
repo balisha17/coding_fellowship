@@ -1,0 +1,21 @@
+
+
+body{
+    background-color: lightgrey;
+}
+
+
+div{
+    background-color: whitesmoke;
+    padding: 30px;
+    border-radius: 25px;
+}
+
+h1{
+        background-color: skyblue;
+        color: white;
+}
+h2{
+    color: green;
+    border-bottom: dashed;
+}
